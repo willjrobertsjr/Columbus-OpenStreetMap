@@ -1,4 +1,4 @@
-# Data Wrangling and SQl querying of the Columbus, OH OpenStreetMap data.
+# Data Wrangling and SQL querying of the Columbus, OH OpenStreetMap data.
 
 The dataset for this study is an XML file of OpenStreetMap data from Columbus, Ohio. The file was parsed and subsequently cleaned and queried to gain knowledge of the area.
 
